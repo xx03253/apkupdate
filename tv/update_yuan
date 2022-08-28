@@ -33,10 +33,6 @@
             "name": "tvbox"
         },
         {
-            "url": "https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json",
-            "name": "巧技"
-        },
-        {
             "url": "https://gitea.com/sunkangfu/skf/raw/branch/main/sjz.json",
             "name": "个版自用",
             "time": "2022-08-26 02:00:00"
@@ -97,11 +93,6 @@
             "time": "2022-08-26 02:00:00"
         },
         {
-            "url": "http://mtw.so/5PGEEm",
-            "name": "houxian福利",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
             "url": "https://0dlj.cn/丰富点",
             "name": "简单",
             "time": "2022-08-26 02:00:00"
@@ -114,11 +105,6 @@
         {
             "url": "https://gitea.com/wlyzh88/MV/raw/branch/master/MV.json",
             "name": "wlyzh88MV",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
-            "url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
-            "name": "wlyz88FL",
             "time": "2022-08-26 02:00:00"
         },
         {
@@ -179,6 +165,16 @@
         {
             "url": "http://52bsj.vip:81/api/v3/file/get/29908/18.json?sign=6dFDJtF30CNlCiznjsQmwbsUbxdtz9edLVjbDc5lC8E%3D%3A0",
             "name": "月光福利"
+        },
+        {
+            "url": "http://mtw.so/5PGEEm",
+            "name": "houxian福利",
+            "time": "2022-08-26 02:00:00"
+        },
+        {
+            "url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
+            "name": "wlyz88FL",
+            "time": "2022-08-26 02:00:00"
         },
         {
             "url": "http://tvmvip110.live/down.php/0a20c53b3c39b42d21482b2597943bc7.txt",
