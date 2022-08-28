@@ -2,5 +2,6 @@
   "versionCode": 6,
   "versionName": "1.0.4",
   "downUrl": "https://gitea.com/apkcore/apk_release/raw/branch/main/releaseV1/tvbox_1.0.4.apk",
-  "description": "增加新包，优化爬虫"
+  "description": "增加新包，优化爬虫",
+  "md5":"fc2b11012ca4ed3fd3a46f36a65bc0ae"
 }
