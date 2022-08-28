@@ -40,6 +40,96 @@
             "url": "https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json",
             "name": "巧技"
         },
+        {
+        "url": "https://gitea.com/sunkangfu/skf/raw/branch/main/sjz.json",
+        "name": "个版自用",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
+        "name": "个人版自用",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "http://mtw.so/5AED2U",
+        "name": "个人版备用",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/TVBOXJTB.JSON",
+        "name": "家庭版",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "http://mtw.so/6ri6JC",
+        "name": "家庭版备用",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "http://刚刚.live/猫.json",
+        "name": "刚刚走过",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "http://mtw.so/6jLrAg",
+        "name": "Yoursmile",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "http://mtw.so/64J1GQ",
+        "name": "老刘备",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+        "name": "〔云星日记〕家庭版",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
+        "name": "〔云星日记〕哔哩套餐",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
+        "name": "〔云星日记〕阿里套餐",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "http://mtw.so/5AEgkc",
+        "name": "houxian家庭版",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "http://mtw.so/5PGEEm",
+        "name": "houxian福利",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "https://0dlj.cn/丰富点",
+        "name": "简单",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "https://gitea.com/wlyzh88/0627/raw/branch/master/0627.json",
+        "name": "wlyzh88",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "https://gitea.com/wlyzh88/MV/raw/branch/master/MV.json",
+        "name": "wlyzh88MV",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
+        "name": "wlyz88FL",
+        "time": "2022-08-26 02:00:00"
+        },
+        {
+        "url": "http://mtw.so/6cfhxt",
+        "name": "suanjin",
+        "time": "2022-08-26 02:00:00"
+        }
         // {
         //     "url": "https://gitea.com/videojx/zyk/raw/branch/main/xuexi.json",
         //     "name": "学习平板"
