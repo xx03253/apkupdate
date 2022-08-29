@@ -1,188 +1,66 @@
 {
     "urls": [
         {
-            "url": "http://xn--4bra.live/%E7%8C%AB",
-            "name": "4K"
+            "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
+            "name": "自用Agit"
+        },
+        {
+            "url": "https://raw.githubusercontents.com/xx03253/xxu/master/xxtv.json",
+            "name": "自用Git"
+        },
+        {
+            "url": "http://刚刚.live/猫.json",
+            "name": "刚刚源",
+            "time": "2022-08-26 02:00:00"
         },
         {
             "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
-            "name": "星辰"
-        },
-        {
-            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name": "月光宝盒Box线路"
+            "name": "星辰源"
         },
         {
             "url": "http://miaotvs.cn/osc",
-            "name": "喵TV"
-        },
-        {
-            "url": "https://gitea.com/boxlive/box/raw/branch/main/jk/showboxv822.json",
-            "name": "showbox"
+            "name": "喵TV源"
         },
         {
             "url": "http://120.53.102.254/tvb/",
             "name": "懒人影视"
         },
         {
-            "url": "https://gitea.com/wy3426/9/raw/branch/9/9/1.json",
-            "name": "六神"
-        },
-        {
-            "url": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
-            "name": "猫影视Pro( 823)"
-        },
-        {
-            "url": "https://box.okeybox.top/tv/uav0.json",
-            "name": "tvbox"
-        },
-        {
-            "url": "https://gitea.com/sunkangfu/skf/raw/branch/main/sjz.json",
-            "name": "个版自用",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
-            "url": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
-            "name": "个人版自用",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
-            "url": "http://mtw.so/5AED2U",
-            "name": "个人版备用",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
-            "url": "https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/TVBOXJTB.JSON",
-            "name": "家庭版",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
-            "url": "http://mtw.so/6ri6JC",
-            "name": "家庭版备用",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
-            "url": "http://刚刚.live/猫.json",
-            "name": "刚刚走过",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
-            "url": "http://mtw.so/6jLrAg",
-            "name": "Yoursmile",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
-            "url": "http://mtw.so/64J1GQ",
-            "name": "老刘备",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
             "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
-            "name": "〔云星日记〕家庭版",
-            "time": "2022-08-26 02:00:00"
+            "name": "云星源"
         },
         {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/bili.json",
-            "name": "〔云星日记〕哔哩套餐",
-            "time": "2022-08-26 02:00:00"
+            "url": "http://52bsj.vip:98/wuai1",
+            "name": "吾爱源"
         },
         {
-            "url": "http://maoyingshi.cc/tvbox/云星日记/ali.m3u8",
-            "name": "〔云星日记〕阿里套餐",
-            "time": "2022-08-26 02:00:00"
+            "url": "hhttps://agit.ai/xx03253/xxu/raw/branch/main/xxu.json",
+            "name": "备用嗅探"
         },
         {
-            "url": "http://mtw.so/5AEgkc",
-            "name": "houxian家庭版",
-            "time": "2022-08-26 02:00:00"
+            "url": "https://raw.fastgit.org/xx03253/xxu/master/xxu.json",
+            "name": "备用嗅探2"
         },
         {
-            "url": "https://0dlj.cn/丰富点",
-            "name": "简单",
-            "time": "2022-08-26 02:00:00"
+            "url": "https://84k.cn/xxtv",
+            "name": "自用解析源"
         },
         {
-            "url": "https://gitea.com/wlyzh88/0627/raw/branch/master/0627.json",
-            "name": "wlyzh88",
-            "time": "2022-08-26 02:00:00"
+            "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xx.json",
+            "name": "自用解析源2"
         },
         {
-            "url": "https://gitea.com/wlyzh88/MV/raw/branch/master/MV.json",
-            "name": "wlyzh88MV",
-            "time": "2022-08-26 02:00:00"
+            "url": "https://raw.iqiq.io/kvymin/CatVod/master/0701.json",
+            "name": "Kvymin源"
         },
         {
-            "url": "http://mtw.so/6cfhxt",
-            "name": "suanjin",
-            "time": "2022-08-26 02:00:00"
+            "url": "https://shadowchiu369.github.io/TVBox/sc.json",
+            "name": "shadowchiu369源"
         },
-        // {
-        //     "url": "https://gitea.com/videojx/zyk/raw/branch/main/xuexi.json",
-        //     "name": "学习平板"
-        // },
-        // {
-        //     "url": "http://mtv.weetai.cn/mtv/260.txt",
-        //     "name": "260.txt"
-        // },
         {
-            "url": "http://118.107.41.200:8888/down/5jjLeRDhRj26",
-            "name": "app里提取"
+            "url": "https://liu673cn.github.io/box/m.json",
+            "name": "liu673cn源"
         }
-        // {
-        //     "url": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
-        //     "name": "XC.json"
-        // },
-        // {
-        //     "url": "https://gitea.com/nb/kls/raw/branch/master/a9.json",
-        //     "name": "a9.json"
-        // },
-        // {
-        //     "url": "https://gitea.com/hfr1107/TVBox/raw/branch/main/sc.json",
-        //     "name": "sc.json"
-        // },
-        // {
-        //     "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
-        //     "name": "meowcf.json"
-        // },
-        // {
-        //     "url": "https://liucn.cc/box/m.json",
-        //     "name": "m.json"
-        // },
-        // {
-        //     "url": "https://wds.ecsxs.com/223843.txt",
-        //     "name": "223843.txt"
-        // },
-        // {
-        //     "url": "http://home.jundie.top:81/668.json",
-        //     "name": "668.json"
-        // }
-    ],
-    "vip": [
-        {
-            "url": "http://tvmvip110.live/down.php/8ee484fd7b6d3a8eb9b0005f43d68175.txt",
-            "name": "68175.txt"
-        },
-        {
-            "url": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
-            "name": "yeshijieC.json"
-        },
-        {
-            "url": "http://52bsj.vip:81/api/v3/file/get/29908/18.json?sign=6dFDJtF30CNlCiznjsQmwbsUbxdtz9edLVjbDc5lC8E%3D%3A0",
-            "name": "月光福利"
-        },
-        {
-            "url": "http://mtw.so/5PGEEm",
-            "name": "houxian福利",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
-            "url": "https://gitea.com/wlyzh88/FL/raw/branch/master/FL.json",
-            "name": "wlyz88FL",
-            "time": "2022-08-26 02:00:00"
-        },
-        {
-            "url": "http://tvmvip110.live/down.php/0a20c53b3c39b42d21482b2597943bc7.txt",
-            "name": "943bc7.txt"
-        }
+        
     ]
 }
