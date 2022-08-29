@@ -10,8 +10,7 @@
         },
         {
             "url": "http://刚刚.live/猫.json",
-            "name": "刚刚源",
-            "time": "2022-08-26 02:00:00"
+            "name": "刚刚源"
         },
         {
             "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
@@ -61,6 +60,6 @@
             "url": "https://liu673cn.github.io/box/m.json",
             "name": "liu673cn源"
         }
-        
-    ]
+    ],
+    "vip": []
 }
