@@ -58,12 +58,28 @@
             "name": "🐤家庭FASTGIT线路"
         },
         {
+            "url": "https://www.fastmock.site/mock/1d52adb084c96725525077ce7380de4c/tv/bd",
+            "name": "🛣BD线路"
+        },
+         {
+            "url": "https://dlj2.cn/zn777",
+            "name": "🕍影子源"
+        },
+        {
             "url": "https://gitea.com/sunkangfu/skf/raw/branch/main/sjz.json",
             "name": "🐃sunkangfu源"
         },
         {
             "url": "https://gitea.com/Yoursmile/TVBox/raw/branch/main/XC.json",
             "name": "🏄Yoursmile源"
+        },
+        {
+            "url": "http://0454dt.com/tvbox",
+            "name": "👑二哈挂机"
+        },
+        {
+            "url": "https://goo.gs/itv",
+            "name": "🐨飞鱼"
         },
         {
             "url": "https://raw.iqiq.io/kvymin/CatVod/master/0701.json",
