@@ -1,11 +1,6 @@
 {
     "urls": [
         {
-            "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
-            "name": "🐉自用Agit"
-        },
-        
-        {
             "url": "http://刚刚.live/猫.json",
             "name": "💖刚刚源"
         },
@@ -16,6 +11,10 @@
         {
             "url": "http://miaotvs.cn/osc",
             "name": "🐱喵TV源"
+        },
+        {
+            "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
+            "name": "🐉自用Agit"
         },
         {
             "url": "https://raw.githubusercontents.com/xx03253/xxu/master/xxtv.json",
