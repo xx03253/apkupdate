@@ -83,6 +83,10 @@
         {
             "url": "https://liu673cn.github.io/box/m.json",
             "name": "📽liu673cn源"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+            "name": "超级自动源"
         }
     ],
     "vip": []
