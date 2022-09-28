@@ -1,6 +1,10 @@
 {
     "urls": [
         {
+            "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
+            "name": "🐉自用Agit"
+        },
+        {
             "url": "http://刚刚.live/猫.json",
             "name": "💖刚刚源"
         },
@@ -13,10 +17,6 @@
             "name": "🐱喵TV源"
         },
         {
-            "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
-            "name": "🐉自用Agit"
-        },
-        {
             "url": "https://raw.githubusercontents.com/xx03253/xxu/master/xxtv.json",
             "name": "🌈自用Git"
         },
@@ -25,7 +25,7 @@
             "name": "💩神器源"
         },
         {
-            "url": "hhttps://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
             "name": "🏄Yoursmile源"
         },
         {
@@ -73,6 +73,10 @@
             "name": "🛣BD线路"
         },
         {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "🦑dxawi源"
+        },
+        {
             "url": "https://raw.iqiq.io/kvymin/CatVod/master/0701.json",
             "name": "🐘Kvymin源"
         },
@@ -86,7 +90,7 @@
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
-            "name": "超级自动源"
+            "name": "🦞超级自动源"
         }
     ],
     "vip": []
