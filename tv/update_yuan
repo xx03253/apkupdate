@@ -21,6 +21,10 @@
             "name": "🌈自用Git"
         },
         {
+            "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxu.json",
+            "name": "🐷备用嗅探"
+        },
+        {
             "url": "https://神器每日推送.tk/pz.json",
             "name": "💩神器源"
         },
@@ -36,10 +40,7 @@
             "url": "http://52bsj.vip:98/wuai",
             "name": "🐨吾爱源"
         },
-        {
-            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
-            "name": "🌙月光宝盒"
-        },
+        
         {
             "url": "http://47.242.90.42:8888/down/BJZPa8THuiE9",
             "name": "☀️星辰"
@@ -87,6 +88,10 @@
         {
             "url": "https://liu673cn.github.io/box/m.json",
             "name": "📽liu673cn源"
+        },
+        {
+            "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+            "name": "🌙月光宝盒"
         },
         {
             "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
