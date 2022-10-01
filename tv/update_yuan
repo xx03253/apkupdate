@@ -74,12 +74,16 @@
             "name": "🛣BD线路"
         },
         {
-            "url": "https://dxawi.github.io/0/0.json",
-            "name": "🦑dxawi源"
+            "url": "https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+            "name": "🦞超级自动源"
         },
         {
-            "url": "https://raw.iqiq.io/kvymin/CatVod/master/0701.json",
-            "name": "🐘Kvymin源"
+            "url": "https://raw.iqiq.io/heroaku/TVboxo/master/Text/ptest.json",
+            "name": "🤡heroaku源"
+        },
+        {
+            "url": "https://dxawi.github.io/0/0.json",
+            "name": "🦑dxawi源"
         },
         {
             "url": "https://shadowchiu369.github.io/TVBox/sc.json",
@@ -93,9 +97,10 @@
             "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
             "name": "🌙月光宝盒"
         },
+        
         {
-            "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
-            "name": "🦞超级自动源"
+            "url": "https://raw.iqiq.io/kvymin/CatVod/master/0701.json",
+            "name": "🐘Kvymin源"
         }
     ],
     "vip": []
