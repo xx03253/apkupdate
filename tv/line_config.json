@@ -80,6 +80,11 @@
         "time": "2022-08-25 12:23:04"
     },
     {
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
+        "title": "🦞超级自动源",
+        "time": "2022-09-25 12:03:04"
+    },
+    {
         "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
         "title": "🌙月光宝盒",
         "time": "2022-09-12 12:23:04"
@@ -90,9 +95,9 @@
         "time": "2022-08-24 11:18:55"
     },
     {
-        "url": "https://raw.iqiq.io/kvymin/CatVod/master/0701.json",
-        "title": "🐘Kvymin源",
-        "time": "2022-08-24 11:17:45"
+        "url": "https://raw.iqiq.io/heroaku/TVboxo/master/Text/ptest.json",
+        "title": "🤡heroaku源",
+        "time": "2022-09-28 11:18:55"
     },
    {
         "url": "https://shadowchiu369.github.io/TVBox/sc.json",
@@ -105,8 +110,8 @@
         "time": "2022-08-25 12:03:04"
     },
     {
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
-        "title": "🦞超级自动源",
-        "time": "2022-09-25 12:03:04"
+        "url": "https://raw.iqiq.io/kvymin/CatVod/master/0701.json",
+        "title": "🐘Kvymin源",
+        "time": "2022-08-24 11:17:45"
     }
 ]
