@@ -66,14 +66,6 @@
             "name": "🐴自用解析源2"
         },
         {
-            "url": "https://raw.fastgit.org/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfjt.json",
-            "name": "🐤家庭FASTGIT线路"
-        },
-        {
-            "url": "https://www.fastmock.site/mock/1d52adb084c96725525077ce7380de4c/tv/bd",
-            "name": "🛣BD线路"
-        },
-        {
             "url": "https://raw.iqiq.io/vpei/Free-TVUrl-Merge/main/out/tvbox.txt",
             "name": "🦞超级自动源"
         },
@@ -84,10 +76,6 @@
         {
             "url": "https://dxawi.github.io/0/0.json",
             "name": "🦑dxawi源"
-        },
-        {
-            "url": "https://shadowchiu369.github.io/TVBox/sc.json",
-            "name": "📼shadowchiu369源"
         },
         {
             "url": "https://liu673cn.github.io/box/m.json",
