@@ -1,10 +1,5 @@
 {
     "urls": [
-         {
-            "url": "https://raw.githubusercontents.com/xx03253/xxu/master/xxtv.json",
-            "name": "🌈自用Git"
-        },
-        
         {
             "url": "http://刚刚.live/猫.json",
             "name": "💖刚刚源"
@@ -12,6 +7,10 @@
         {
             "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
             "name": "🐼云星源"
+        },
+         {
+            "url": "https://raw.githubusercontents.com/xx03253/xxu/master/xxtv.json",
+            "name": "🌈自用Git"
         },
         {
             "url": "http://miaotvs.cn/osc",
