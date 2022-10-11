@@ -1,6 +1,6 @@
 {
   "version": "22.10.11",
   "changelog": "版本配置更新",
-  "force": true,
-  "download": ""
+  "force": false,
+  "download": "https://ghproxy.com/https://raw.githubusercontent.com/xx03253/xxu/main/apks/祥祥TV_221011.apk"
 }
