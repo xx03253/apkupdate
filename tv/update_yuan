@@ -8,7 +8,11 @@
             "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
             "name": "🐼云星源"
         },
-         {
+        {
+            "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
+            "name": "🐉自用Agit"
+        },
+        {
             "url": "https://raw.githubusercontents.com/xx03253/xxu/master/xxtv.json",
             "name": "🌈自用Git"
         },
@@ -47,8 +51,8 @@
             "name": "🍅NB源"
         },
         {
-            "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
-            "name": "🐉自用Agit"
+            "url": "http://amoyxu.gnway.cc/",
+            "name": "🤖自建服务源"
         },
         {
             "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxu.json",
@@ -86,7 +90,10 @@
             "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
             "name": "🌙月光宝盒"
         },
-        
+        {
+            "url": "http://amoyxu.gnway.cc/xx.json",
+            "name": "🦷自建备用源"
+        },
         {
             "url": "https://raw.iqiq.io/kvymin/CatVod/master/0701.json",
             "name": "🐘Kvymin源"
