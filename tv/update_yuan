@@ -17,14 +17,17 @@
             "name": "🥗菜丝妮"
         },
         {
-            "url": "https://raw.githubusercontents.com/xx03253/xxu/master/xxtv.json",
-            "name": "🌈自用Git"
-        },
-        {
             "url": "http://miaotvs.cn/osc",
             "name": "🐱喵TV源"
         },
-       
+        {
+            "url": "http://141.147.146.105/xxu/xxtv.json",
+            "name": "🤖自建服务源"
+        },
+        {
+            "url": "http://141.147.146.105/xxu/xxu.json",
+            "name": "🦷自建备用源"
+        },
         {
             "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxu.json",
             "name": "🐷备用嗅探"
@@ -59,6 +62,10 @@
             "name": "🐷备用嗅探"
         },
         {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/xx03253/xxu/master/xxtv.json",
+            "name": "🌈自用Git"
+        },
+        {
             "url": "https://raw.fastgit.org/xx03253/xxu/master/xxu.json",
             "name": "🐌备用嗅探2"
         },
@@ -89,14 +96,6 @@
         {
             "url": "http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
             "name": "🌙月光宝盒"
-        },
-         {
-            "url": "http://xxiang.xyz/xxu/xxtv.json",
-            "name": "🤖自建服务源"
-        },
-        {
-            "url": "http://xxiang.xyz/xxu/xx.json",
-            "name": "🦷自建备用源"
         },
         {
             "url": "https://raw.iqiq.io/kvymin/CatVod/master/0701.json",
