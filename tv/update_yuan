@@ -1,7 +1,7 @@
 {
     "urls": [
         {
-            "url": "http://刚刚.live/猫.json",
+            "url": "http://刚刚.live/猫",
             "name": "💖刚刚源"
         },
         {
@@ -15,6 +15,10 @@
         {
             "url": "https://tvbox.cainisi.cf",
             "name": "🥗菜丝妮"
+        },
+        {
+            "url": "own.pro/tvbox/tvbox.json",
+            "name": "🍗巧技"
         },
         {
             "url": "https://神器每日推送.tk/pz.json",
