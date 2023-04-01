@@ -9,10 +9,6 @@
             "name": "🚀肥猫线路"
         },          
         {
-            "url": "https://hutool.ml/tang",
-            "name": "🚀唐三线路"
-        },  
-        {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀道长线路"
         },
@@ -27,6 +23,10 @@
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
             "name": "🚀巧记线路"
+        },
+	{
+            "url": "http://maoyingshi.cc/tvbox/云星日记/1.m3u8",
+            "name": "🐼云星源"
         },
         {
             "url": "http://101.34.67.237/config/3",
