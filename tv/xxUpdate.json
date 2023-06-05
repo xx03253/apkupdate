@@ -9,10 +9,6 @@
             "name": "🚀肥猫线路"
         },          
         {
-            "url": "http://8.210.232.168/xc.json",
-            "name": "🚀星辰"
-        },
-        {
             "url": "http://饭太硬.top/tv",
             "name": "🚀饭太硬线路"
         },
@@ -27,6 +23,10 @@
         {
             "url": "https://yydsys.top/duo",
             "name": "🚀大聪明"
+        },
+	{
+            "url": "http://8.210.232.168/xc.json",
+            "name": "🚀星辰"
         },
         {
             "url": "http://pandown.pro/tvbox/tvbox.json",
