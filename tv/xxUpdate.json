@@ -2,7 +2,7 @@
     "urls": [
         {
             "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
-            "name": "🐉自用Agit"
+            "name": "🐉祥祥自用"
         },
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
@@ -27,6 +27,10 @@
         {
             "url": "https://yydsys.top/duo",
             "name": "🚀大聪明"
+        },
+	{
+            "url": "http://141.147.146.105/xxu/xxtv.json",
+            "name": "🤖自建服务源"
         },
 	{
             "url": "http://8.210.232.168/xc.json",
@@ -76,10 +80,7 @@
 	{
             "url": "http://141.147.146.105/xxu/xxu.json",
             "name": "🚀无效禁线路"
-        },
-	{
-            "url": "http://141.147.146.105/xxu/xxtv.json",
-            "name": "🤖自建服务源"
         }
+	
     ]
 }
