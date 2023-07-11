@@ -1,6 +1,10 @@
 {
     "urls": [
          {
+            "url": "https://notabug.org/xx03253/xxu/raw/main/xxtv.json",
+            "name": "🦄自用源(失效选择其他源)"
+        },
+	{
             "url": "http://141.147.146.105/xxu/xxtv.json",
             "name": "🤖自建服务源"
         },
