@@ -1,8 +1,8 @@
 {
     "urls": [
-        {
-            "url": "http://141.147.146.105/xxu/xxtv.json",
-            "name": "🤖自建(失效选择其他源)"
+       {
+            "url": "https://notabug.org/xx03253/xx/raw/main/xxtv.json",
+            "name": "🚀🤖自用(失效选择其他源)"
         },
         {
             "url": "http://我不是.肥猫.love:63/接口禁止贩卖",
@@ -13,7 +13,7 @@
             "name": "🚀饭太硬线路"
         },
         {
-            "url": "https://weixine.net/ysc.json",
+            "url": "http://weixine.link:33/",
             "name": "🚀运输车线路"
         },
         {
@@ -30,13 +30,9 @@
             "name": "🤖码上放生"
         },
         {
-            "url": "https://agit.ai/xx03253/xxu/raw/branch/main/xxtv.json",
-            "name": "🚀备用1源"
-        },
-        {
-            "url": "https://notabug.org/xx03253/xx/raw/main/xxtv.json",
-            "name": "🚀备用2源"
-        },
+            "url": "http://141.147.146.105/xxu/xxtv.json",
+            "name": "🤖备份2(失效选择其他源)"
+        }, 
         {
             "url": "https://pastebin.com/raw/5NHaxyGR",
             "name": "🚀道长线路"
